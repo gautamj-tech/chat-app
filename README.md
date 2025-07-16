@@ -1,4 +1,6 @@
-# Chat Frontend Assignment
+https://chat-app-tau-woad-71.vercel.app - Deployed URL
+
+Chat Assignment
 
 This is a simple chat interface built with React and TypeScript. It allows you to create, delete, and chat in multiple chats, similar to MS Teams/Slack/WhatsApp (frontend only, no backend).
 
